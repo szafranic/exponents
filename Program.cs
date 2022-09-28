@@ -24,10 +24,14 @@
 						Console.WriteLine(i +"\t "+squared+"\t\t"+cubed);
 					}
 				}
+				else if (input > 1290)
+				{
+					Console.WriteLine("This number is too high to store cubed! Please input something a bit smaller");
+					valid = true;
+				}
 				else
 				{
-					Console.WriteLine("try again");
-					valid = true;
+					Console.WriteLine("This is not a valid integer or a negative number. Try again.");
 				}
 			}
 
@@ -50,7 +54,7 @@
 				}
 				else
 				{
-					Console.WriteLine("this is a y/n question");
+					Console.WriteLine("Please use Y or N :)");
 					repeat = true;
 				}
 			}
