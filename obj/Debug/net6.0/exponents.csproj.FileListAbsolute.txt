@@ -1,0 +1,15 @@
+C:\Users\stormy\Git\school projects\exponents\bin\Debug\net6.0\exponents.exe
+C:\Users\stormy\Git\school projects\exponents\bin\Debug\net6.0\exponents.deps.json
+C:\Users\stormy\Git\school projects\exponents\bin\Debug\net6.0\exponents.runtimeconfig.json
+C:\Users\stormy\Git\school projects\exponents\bin\Debug\net6.0\exponents.dll
+C:\Users\stormy\Git\school projects\exponents\bin\Debug\net6.0\exponents.pdb
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.csproj.AssemblyReference.cache
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.AssemblyInfoInputs.cache
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.AssemblyInfo.cs
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.csproj.CoreCompileInputs.cache
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.dll
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\refint\exponents.dll
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.pdb
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\exponents.genruntimeconfig.cache
+C:\Users\stormy\Git\school projects\exponents\obj\Debug\net6.0\ref\exponents.dll
